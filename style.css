@@ -1,0 +1,24 @@
+.Donate {
+    background-image: url(cover.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.donate {
+    text-align: center;
+    padding-top: 10%;
+    color: rgb(247, 124, 10);
+    font-size: 28px;
+}
+
+.two {
+    color: rgb(235, 43, 10);
+}
+
+.button {
+    text-decoration: none;
+    padding: 20px 30px;
+    background-color: rgb(238, 146, 8);
+    border-radius: 5px;
+}

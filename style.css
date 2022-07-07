@@ -22,3 +22,114 @@
     background-color: rgb(238, 146, 8);
     border-radius: 5px;
 }
+
+.section {
+    padding-top: 100px;
+    background-position: center;
+}
+
+.float {
+    text-align: center;
+    font-size: 20px;
+
+}
+
+
+#hani {
+    font-size: 13px;
+}
+
+.nam {
+    display: inline-flex;
+    list-style: none;
+    color: brown;
+
+}
+
+
+.name {
+    width: 120px;
+    margin: 15px;
+    padding: 15px;
+    font-size: 36px;
+    color: black;
+    border: 1 px solid;
+
+}
+
+.nme {
+    box-sizing: 80px 80px;
+    margin: 15px;
+    padding: 15px;
+    font-size: 36px;
+    color: red;
+    border: 2px solid red;
+    background-color: rgb(250, 210, 210);
+    border-radius: 5px;
+}
+
+.other {
+    color: rgb(133, 132, 131);
+}
+
+.five {
+    text-decoration: none;
+    padding: 20px 40px;
+    background-color: rgb(238, 146, 8);
+    border-radius: 5px;
+}
+
+.div {
+    text-align: center;
+
+}
+
+.h1 {
+    font-size: 36px;
+}
+
+#h3 {
+    color: rgb(83, 85, 85);
+}
+
+.box {
+
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    padding: 15px;
+    margin: 15px;
+    background-color: rgb(252, 233, 233);
+
+
+
+
+}
+
+.boxxing {
+    display: inline-flex;
+    margin-left: 7%;
+    margin-right: 5%;
+    background-position: center;
+
+}
+
+#iteam {
+
+    font-size: 30px;
+}
+
+.depend {
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.human {
+    display: flex;
+}
+
+.imge {
+    height: 500px;
+    width: 500px;
+    margin-left: 100px;
+}
